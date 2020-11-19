@@ -1,0 +1,9 @@
+.pagination {
+  display: inline-block;
+  padding-left: 0;
+}
+
+.pagination > li.active a {
+  background-color: cornflowerblue;
+  color: white;
+}
